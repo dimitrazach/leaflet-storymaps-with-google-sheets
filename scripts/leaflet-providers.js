@@ -353,7 +353,7 @@
 					options: {
 						variant: 'NatGeo_World_Map',
 						maxZoom: 16,
-						attribution: '{attribution.Esri} &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC'
+						attribution: '{attribution.Esri} &mdash; National Geographic'
 					}
 				},
 				WorldGrayCanvas: {
