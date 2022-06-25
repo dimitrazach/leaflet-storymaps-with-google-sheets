@@ -82,14 +82,12 @@ $(window).on('load', function() {
   /**
    * Loads the basemap and adds it to the map
    */
-  function addBaseMap() {
-    var basemap = trySetting('_tileProvider', 'Esri');
-     L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
-	attribution: 'Tiles &copy; Esri &mdash; National Geographic',
-	maxZoom: 16
-}).addTo(map);
-  }
-
+ function addBaseMap() {
+    var basemap = trySetting('_tileProvider', 'Stamen.TonerLite');
+    L.tileLayer.provider(basemap, {
+      maxZoom: 18
+    }).addTo(map);
+    }
   function initMap(options, chapters) {
     createDocumentSettings(options);
 
