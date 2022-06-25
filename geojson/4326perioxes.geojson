@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "4326perioxes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "onoma": "troia" }, "geometry": { "type": "Point", "coordinates": [ 26.22536763061898, 39.958216771231491 ] } },
+{ "type": "Feature", "properties": { "id": 2, "onoma": "cicones" }, "geometry": { "type": "Point", "coordinates": [ 25.42716359858489, 41.004844209777161 ] } },
+{ "type": "Feature", "properties": { "id": 3, "onoma": "lotus eaters" }, "geometry": { "type": "Point", "coordinates": [ 9.812297221918678, 33.859553437853002 ] } },
+{ "type": "Feature", "properties": { "id": 4, "onoma": "cyclops" }, "geometry": { "type": "Point", "coordinates": [ 13.441631180073523, 37.465692831053623 ] } },
+{ "type": "Feature", "properties": { "id": 5, "onoma": "island of Aeolus" }, "geometry": { "type": "Point", "coordinates": [ 11.695559859999028, 37.158188489190266 ] } },
+{ "type": "Feature", "properties": { "id": 6, "onoma": "laestrygonias" }, "geometry": { "type": "Point", "coordinates": [ 12.992641412054368, 38.017989169339337 ] } },
+{ "type": "Feature", "properties": { "id": 7, "onoma": "circe" }, "geometry": { "type": "Point", "coordinates": [ 10.214517222435838, 42.782529777496187 ] } },
+{ "type": "Feature", "properties": { "id": 8, "onoma": "adis" }, "geometry": { "type": "Point", "coordinates": [ -5.550012410236758, 35.966139467883423 ] } },
+{ "type": "Feature", "properties": { "id": 9, "onoma": "seirines" }, "geometry": { "type": "Point", "coordinates": [ 13.114242807559556, 41.314707880533909 ] } },
+{ "type": "Feature", "properties": { "id": 10, "onoma": "skila kai xarivdi" }, "geometry": { "type": "Point", "coordinates": [ 15.995260485682476, 38.130896548549629 ] } },
+{ "type": "Feature", "properties": { "id": 11, "onoma": "thrinacia" }, "geometry": { "type": "Point", "coordinates": [ 15.047393197642036, 37.013924476917119 ] } },
+{ "type": "Feature", "properties": { "id": 12, "onoma": "ogygia island calypso" }, "geometry": { "type": "Point", "coordinates": [ 14.498627925618624, 35.890395630430895 ] } },
+{ "type": "Feature", "properties": { "id": 13, "onoma": "phaeacia" }, "geometry": { "type": "Point", "coordinates": [ 19.811673513845307, 39.712408939755278 ] } },
+{ "type": "Feature", "properties": { "id": 14, "onoma": "ithaki" }, "geometry": { "type": "Point", "coordinates": [ 20.715889018883882, 38.361077874693571 ] } }
+]
+}
