@@ -84,7 +84,7 @@ $(window).on('load', function() {
    */
   function addBaseMap() {
     var basemap = trySetting('_tileProvider', 'Esri');
-    L.tileLayer.provider(basemap, {
+    L.tileLayer.provider(http://leaflet-extras.github.io/leaflet-providers/preview/, {
       maxZoom: 18
     }).addTo(map);
   }
