@@ -1,7 +1,7 @@
 Setting,Customize,Hints
 Storymap Info,,
 Storymap Title,The return of Odysseus to Ithaca,
-Storymap Subtitle,This is a story map by DfZach<br><small>Scroll down <i class='fa fa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
+Storymap Subtitle,This is a story map by Df<br><small>Scroll down <i class='fa fa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
 Storymap Logo,"""media/""",Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,
@@ -15,7 +15,7 @@ Media Container Height,300,"Maximum height of the image, in pixels. 200 is defau
 Pixels After Final Chapter,600,In pixels. At least 100
 Enable Lightbox for Images,yes,yes or no
 Credits,,
-Author Name,DfZach,"Appears in map credits as ""View data by..."" (or leave blank)"
+Author Name,Df,"Appears in map credits as ""View data by..."" (or leave blank)"
 Author Email or Website,,Create link in Author Name by inserting your email or web address (or leave blank)
 Author GitHub Repo Link,,
 Code Credit,,
